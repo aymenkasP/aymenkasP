@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning Jest
 - 📫 How to reach me ...
 -   linkedin;   https://www.linkedin.com/in/aymen-chenomi-reactjs-dev/
--  IG: @web.dev_js 
+-  IG: @webaimen 
 -  Twitter : @webdevjs1 
 
